@@ -1,8 +1,6 @@
 **LaCroix Can Color Palettes for matplotlib**
 ====================================================================
 
-[![Build Status](https://travis-ci.org/ljwolf/wampl.svg?branch=master)](https://travis-ci.org/ljwolf/wampl)
-
 
 Usage
 -----
