@@ -1,7 +1,7 @@
 **LaCroix Can Color Palettes for matplotlib**
 ====================================================================
 
-[![Build Status](https://travis-ci.org/ethanagbaker/LaCroix.svg?branch=master)(https://travis-ci.org/ethanagbaker/lacroix)
+[![Build Status](https://travis-ci.org/ethanagbaker/LaCroix.svg?branch=master] (https://travis-ci.org/ethanagbaker/lacroix)
 
 Usage
 -----
