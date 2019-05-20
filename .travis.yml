@@ -8,7 +8,6 @@ python:
   - "3.4"
   - "3.5"
   - "3.6"
-  - "3.7"
 
 before_install:
   - wget https://repo.continuum.io/miniconda/Miniconda-latest-Linux-x86_64.sh -O miniconda.sh
@@ -23,7 +22,7 @@ install:
   - conda install --yes jupyter numpy
 
 script:
-  - jupyter nbconvert --to notebook --execute Examples.ipynb
+  - jupyter nbconvert --to notebook --ExecutePreprocessor.kernel_name=python --execute Examples.ipynb 
 
 notifications:
     email:
