@@ -33,7 +33,7 @@ berry = lacroix.colorList('Berry')
 berry_sns = sns.color_palette(berry) #creates a seaborn palette.
 ```
 
-See the **Examples** notebook for usage cases. Palettes should be set after importing seaborn.
+See the [**Examples**](https://nbviewer.jupyter.org/github/ethanagbaker/LaCroix/blob/master/Examples.ipynb) notebook for usage cases. Palettes should be set after importing seaborn.
 
 License
 --------
