@@ -23,7 +23,7 @@ install:
   - conda install --yes jupyter numpy
 
 script:
-  - jupyter nbconvert --to notebook --execute demo.ipynb
+  - jupyter nbconvert --to notebook --execute Examples.ipynb
 
 notifications:
     email:
