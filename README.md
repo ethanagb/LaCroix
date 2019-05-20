@@ -5,6 +5,9 @@
 
 Usage
 -----
+To install:
+
+`pip install lacroix`
 
 To import:
 ```
