@@ -1,3 +1,4 @@
 include Examples.ipynb
 include README.md
-include lacroix/colors.json
+include colors.json
+graft lacroix/

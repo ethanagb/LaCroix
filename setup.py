@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='lacroix',
-      version='0.0.1',
+      version='0.0.2',
       description='Use LaCroix Color Palettes in Matplotlib & Seaborn',
       url='https://github.com/ethanagbaker/LaCroix',
       author='Ethan Alexander Garcia Baker',
